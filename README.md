@@ -1,6 +1,15 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot 2024-04-20 at 22-55-03 React App](https://github.com/saurabhgdeshmukh/multistep-form/assets/128806572/06007b94-b55d-4f52-8d03-ce787cb534cc)
+
+
+![Screenshot 2024-04-20 at 22-55-09 React App](https://github.com/saurabhgdeshmukh/multistep-form/assets/128806572/f0f1bce4-3967-4669-a06e-2a238ce688f4)
+![Screenshot 2024-04-20 at 22-55-15 React App](https://github.com/saurabhgdeshmukh/multistep-form/assets/128806572/4e5f568a-177d-4cc4-934d-f72a66669637)
+![Screenshot 2024-04-20 at 22-55-21 React App](https://github.com/saurabhgdeshmukh/multistep-form/assets/128806572/c77a7833-534b-40b3-922a-f8c21146f6e0)
+![Screenshot 2024-04-20 at 22-55-37 React App](https://github.com/saurabhgdeshmukh/multistep-form/assets/128806572/ebb30aaf-a630-4cfe-b73b-1d9d17eb0657)
+![Screenshot 2024-04-20 at 22-56-01 React App](https://github.com/saurabhgdeshmukh/multistep-form/assets/128806572/1ba77660-5a85-4062-84f7-c1f6ff472da7)
+![Screenshot 2024-04-20 at 22-55-47 React App](https://github.com/saurabhgdeshmukh/multistep-form/assets/128806572/329093d6-c4c8-45e3-a0b5-0a174493f2e3)
 
 ## Available Scripts
 
